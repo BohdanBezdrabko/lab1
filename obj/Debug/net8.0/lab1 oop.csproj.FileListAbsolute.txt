@@ -1,0 +1,14 @@
+C:\Users\Win-64\Desktop\lab1 oop\bin\Debug\net8.0\lab1 oop.exe
+C:\Users\Win-64\Desktop\lab1 oop\bin\Debug\net8.0\lab1 oop.deps.json
+C:\Users\Win-64\Desktop\lab1 oop\bin\Debug\net8.0\lab1 oop.runtimeconfig.json
+C:\Users\Win-64\Desktop\lab1 oop\bin\Debug\net8.0\lab1 oop.dll
+C:\Users\Win-64\Desktop\lab1 oop\bin\Debug\net8.0\lab1 oop.pdb
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.AssemblyInfoInputs.cache
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.AssemblyInfo.cs
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.csproj.CoreCompileInputs.cache
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.dll
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\refint\lab1 oop.dll
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.pdb
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\lab1 oop.genruntimeconfig.cache
+C:\Users\Win-64\Desktop\lab1 oop\obj\Debug\net8.0\ref\lab1 oop.dll
